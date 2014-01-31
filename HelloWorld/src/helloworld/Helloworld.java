@@ -9,6 +9,8 @@ public class Helloworld {
 		System.out.println("Hello World");
 		System.out.println("Just need to know I can use Git");
 		System.out.println("I guess this is not a "+state);
+		System.out.println(state+ " is a state");
+		
 		
 		
 
